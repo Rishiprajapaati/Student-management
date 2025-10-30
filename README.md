@@ -190,7 +190,7 @@ For any queries or support:
 📸 Output Screenshots
 (Add your project screenshots here) :
 Example:
-![Image Alt](<img width="1883" height="910" alt="image" src="https://github.com/user-attachments/assets/746a2846-4589-4a95-af19-f9ed628a6b2d" />)
+![Image Alt]<img width="1883" height="910" alt="image" src="https://github.com/user-attachments/assets/746a2846-4589-4a95-af19-f9ed628a6b2d" />
 
 
 
