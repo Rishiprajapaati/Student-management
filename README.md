@@ -188,5 +188,12 @@ For any queries or support:
 🎓 Student Management System – A simple CRUD app to manage student data efficiently and learn ASP.NET Core MVC basics.
 
 📸 Output Screenshots
-(Add your project screenshots here)
+(Add your project screenshots here) :
 Example:
+<img width="1883" height="910" alt="Screenshot 2025-10-30 200310" src="https://github.com/user-attachments/assets/6d47f2e1-8a62-46bd-978c-3acaf7aded44" />
+
+<img width="1876" height="906" alt="Screenshot 2025-10-30 200337" src="https://github.com/user-attachments/assets/93dd83f7-44cc-4342-b41a-e1bce387ff33" />
+
+
+
+
