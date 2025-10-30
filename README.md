@@ -190,7 +190,11 @@ For any queries or support:
 📸 Output Screenshots
 (Add your project screenshots here) :
 Example:
-![Image Alt]<img width="1883" height="910" alt="image" src="https://github.com/user-attachments/assets/746a2846-4589-4a95-af19-f9ed628a6b2d" />
+![Image Alt](https://github.com/Rishiprajapaati/Student-management/blob/main/Screenshot%202025-10-30%20200310.png?raw=true)
+![Image Alt](https://github.com/Rishiprajapaati/Student-management/blob/main/Screenshot%202025-10-30%20200337.png?raw=true)
+![Image Alt](https://github.com/Rishiprajapaati/Student-management/blob/main/Screenshot%202025-10-30%20221633.png?raw=true)
+![Image Alt](https://github.com/Rishiprajapaati/Student-management/blob/main/Screenshot%202025-10-30%20221701.png?raw=true)
+
 
 
 
